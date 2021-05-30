@@ -28,3 +28,7 @@ Gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran program.
 #### Pratik 3 - Dairenin Alanı ve Çevresini Hesaplama
 
 Yarıçapı r olan daire diliminin alanı, çevresi ve merkez açısısının ölçüsü 𝛼 olan daire diliminin alanını bulan program.
+
+#### Ödev 1 - Vucüt Kitle Endeksini Hesaplayan Program
+
+Kullanıcıdan boy ve kilo değerlerini alıp kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdıran ve bu değere göre vucüt durumunu normal,toplu,obez veya mortal obez olarak belirten program.
