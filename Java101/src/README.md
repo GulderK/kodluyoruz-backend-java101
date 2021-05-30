@@ -24,3 +24,7 @@ Gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran program.
 - Taksimetre KM başına 2.20 TL tutmaktadır.
 - Minimum ödenecek tutar 20 TL'dir. 20 TL altında ki ücretlerde yine 20 TL alınacaktır.
 - Taksimetre açılış ücreti 10 TL'dir.
+
+#### Pratik 3 - Dairenin Alanı ve Çevresini Hesaplama
+
+Yarıçapı r olan daire diliminin alanı, çevresi ve merkez açısısının ölçüsü 𝛼 olan daire diliminin alanını bulan program.
