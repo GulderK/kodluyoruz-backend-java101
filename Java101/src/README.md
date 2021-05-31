@@ -32,3 +32,15 @@ Yarıçapı r olan daire diliminin alanı, çevresi ve merkez açısısının ö
 #### Ödev 1 - Vucüt Kitle Endeksini Hesaplayan Program
 
 Kullanıcıdan boy ve kilo değerlerini alıp kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdıran ve bu değere göre vucüt durumunu normal,toplu,obez veya mortal obez olarak belirten program.
+
+#### Ödev 2 - Manav Kasa Programı
+
+Kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran program.
+
+Meyveler ve KG Fiyatları
+
+* Armut : 2,14 TL
+* Elma : 3,67 TL
+* Domates : 1,11 TL
+* Muz: 0,95 TL
+* Patlıcan : 5,00 TL
